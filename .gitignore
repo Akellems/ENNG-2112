@@ -16,3 +16,9 @@ logs/
 *.pth
 *.zip
 .DS_Store
+
+# Datasets / large binaries
+merged_dataset/
+realwaste/
+trashnet/
+data_split/
